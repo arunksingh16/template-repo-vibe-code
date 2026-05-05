@@ -4,13 +4,28 @@
     "allow": [
       "Bash(npm run lint)",
       "Bash(npm run test *)",
-      "Read(~/.zshrc)"
+      "Read(~/.zshrc)",
+      "Bash(gh api *)",
+      "Bash(git status)",
+      "Bash(git diff *)",
+      "WebFetch(domain:dev.to)"
     ],
     "deny": [
-      "Bash(curl *)",
-      "Read(./.env)",
-      "Read(./.env.*)",
-      "Read(./secrets/**)"
+      "Read(**/.env*)",
+      "Read(**/.dev.vars*)",
+      "Read(**/*.pem)",
+      "Read(**/*.key)",
+      "Read(**/secrets/**)",
+      "Read(**/credentials/**)",
+      "Read(**/.aws/**)",
+      "Read(**/.ssh/**)",
+      "Read(**/config/database.yml)",
+      "Read(**/config/credentials.json)",
+      "Read(**/.npmrc)",
+      "Read(**/.pypirc)",
+      "Write(**/.env*)",
+      "Write(**/secrets/**)",
+      "Write(**/.ssh/**)"
     ]
   },
   "env": {
