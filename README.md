@@ -7,3 +7,5 @@ Ref:
 Using Claude Best Practices - https://github.com/shanraisshan/claude-code-best-practice
 
 Claude Code Optimization Command - https://github.com/luongnv89/claude-howto/blob/main/claude_concepts_guide.md
+
+Claude code subagents example - https://github.com/0xfurai/claude-code-subagents/
