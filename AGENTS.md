@@ -4,7 +4,7 @@ Read by every coding agent (Claude Code, Codex, Cursor, etc.) in repos created f
 `CLAUDE.md` contains `@AGENTS.md` plus anything Claude-specific.
 Rationale for rules lives in [ADRs](docs/adr/README.md).
 
-**Stacks below are defaults, not suggestions.** Use them unless Section 1 overrides. Anything outside this list → stop, ask, explain why in 1–2 sentences.
+**Stacks below are defaults, not suggestions.** Use them unless Section 1 overrides. Make sure check with project owner in case something does not make sense. Anything outside this list → stop, ask, explain why in 1–2 sentences. Be blunt and honest about your findings. Keep docs updated so that new agents can pick anytime. 
 
 **Be extremely concise** in replies, commits, and docs. Sacrifice grammar for concision.
 
