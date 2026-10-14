@@ -18,4 +18,7 @@ Install few things first
 - Atomic chat
 - Unsloth
 - AgentsView
-- 
+
+## Skills 
+- https://github.com/Leonxlnx/taste-skill
+- https://github.com/Leonxlnx/cinetic
