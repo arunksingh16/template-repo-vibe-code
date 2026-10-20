@@ -18,6 +18,7 @@ Install few things first
 - Atomic chat
 - Unsloth
 - AgentsView
+- Codegraph
 
 ## Skills 
 - https://github.com/Leonxlnx/taste-skill
