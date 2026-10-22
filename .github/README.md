@@ -23,6 +23,8 @@ Install few things first
 ## Skills 
 - https://github.com/Leonxlnx/taste-skill
 - https://github.com/Leonxlnx/cinetic
+- https://github.com/addyosmani/agent-skills/blob/main/skills/code-simplification/SKILL.md
 
 ## Learn
 - https://aiengineeringfromscratch.com/
+- https://skills.addy.ie/
