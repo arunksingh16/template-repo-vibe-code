@@ -28,3 +28,4 @@ Install few things first
 ## Learn
 - https://aiengineeringfromscratch.com/
 - https://skills.addy.ie/
+- https://luongnv.com/claude-howto/LEARNING-ROADMAP.html#-find-your-level
