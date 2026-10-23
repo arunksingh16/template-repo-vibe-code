@@ -29,3 +29,11 @@ Install few things first
 - https://aiengineeringfromscratch.com/
 - https://skills.addy.ie/
 - https://luongnv.com/claude-howto/LEARNING-ROADMAP.html#-find-your-level
+- https://algomaster.io/
+- 
+
+## USeful repo 
+- https://github.com/Automattic/harper
+- https://github.com/ashishps1/awesome-system-design-resources
+- https://github.com/moonshine-ai/moonshine
+- https://zhu-han.github.io/
