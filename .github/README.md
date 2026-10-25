@@ -31,7 +31,8 @@ Install few things first
 - https://skills.addy.ie/
 - https://luongnv.com/claude-howto/LEARNING-ROADMAP.html#-find-your-level
 - https://algomaster.io/
-- 
+- https://github.com/mlabonne/llm-course
+- https://github.com/hesreallyhim/awesome-claude-code
 
 ## USeful repo 
 - https://github.com/Automattic/harper
