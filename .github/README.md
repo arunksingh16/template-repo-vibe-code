@@ -24,6 +24,7 @@ Install few things first
 - https://github.com/Leonxlnx/taste-skill
 - https://github.com/Leonxlnx/cinetic
 - https://github.com/addyosmani/agent-skills/blob/main/skills/code-simplification/SKILL.md
+- https://github.com/addyosmani/clarity/tree/main
 
 ## Learn
 - https://aiengineeringfromscratch.com/
@@ -37,3 +38,6 @@ Install few things first
 - https://github.com/ashishps1/awesome-system-design-resources
 - https://github.com/moonshine-ai/moonshine
 - https://zhu-han.github.io/
+
+## SRE Agents
+- https://github.com/HolmesGPT/holmesgpt
