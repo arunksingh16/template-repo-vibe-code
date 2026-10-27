@@ -39,6 +39,7 @@ Install few things first
 - https://github.com/ashishps1/awesome-system-design-resources
 - https://github.com/moonshine-ai/moonshine
 - https://zhu-han.github.io/
+- https://github.com/cjpais/handy
 
 ## SRE Agents
 - https://github.com/HolmesGPT/holmesgpt
