@@ -40,6 +40,7 @@ Install few things first
 - https://github.com/moonshine-ai/moonshine
 - https://zhu-han.github.io/
 - https://github.com/cjpais/handy
+- https://markdy.com/#prompt-tutorial
 
 ## SRE Agents
 - https://github.com/HolmesGPT/holmesgpt
